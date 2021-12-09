@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861089786455",
+    "firebase_url": "https://kladdiedb-default-rtdb.firebaseio.com",
+    "project_id": "kladdiedb",
+    "storage_bucket": "kladdiedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861089786455:android:762b5f8a65e080c1725112",
+        "android_client_info": {
+          "package_name": "com.example.kladdie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861089786455-3av404prab3m4l8t706s2bv3rdrf3i53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyfuNDK_qSWZDmOTE0xdmO1TWUuEKzIBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861089786455-3av404prab3m4l8t706s2bv3rdrf3i53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
